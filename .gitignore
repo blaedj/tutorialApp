@@ -2,6 +2,8 @@
 /.idea/workspace.xml
 .DS_Store
 
+.idea/
+
 # Built application files
 *.apk
 *.ap_
